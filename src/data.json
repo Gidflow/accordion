@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "question": "What are accordion components?",
+        "answer": "Accordion components are user interface elements for organizing data"
+
+    },
+    {
+        "id":2,
+        "question": "What are they used for?",
+        "answer": "they are commomnly emloyed in various contexts, including FAQs, and questionnaires"
+    },
+    {
+        "id":3,
+        "question": "Accordion as a musical instrument",
+        "answer": "Accordion is  amusical instrument with a keyboard and a bellower"
+    },
+    {
+        "id":4,
+        "question": "Can I create accordion with a different framework?",
+        "answer": "Yes of course, it is very possible to create an accordion component "
+    }
+]
